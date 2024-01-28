@@ -1,10 +1,11 @@
 # AdminLTE 3 starter for Laravel
 
-Used [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) starter template, sliced and prepared for laravel blade.
-CSS an JS connected via cdn. Check layouts/main.blade.php
-
 ## Use
 
-Copy admin/ folder to resources/views/
+1. Download [AdminLTE](https://adminlte.io/) and move to public folder in your Laravel app.
 
-Set up roots and controllers. Continue dev
+2. Copy admin folder from here and move to resources/views folder in your Laravel app.
+
+3. Update includes paths and extends path as you required.
+
+4. Use and continue dev.
