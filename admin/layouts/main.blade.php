@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ asset('AdminLTE-3.2.0/dist/css/adminlte.min.css') }}">
 
 </head>
-<body class="hold-transition sidebar-mini">
+<body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
     @include('adminlte-laravel-starter-views.admin.includes.navbar')
     @include('adminlte-laravel-starter-views.admin.includes.sidebar')
