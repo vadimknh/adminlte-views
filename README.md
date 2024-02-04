@@ -6,6 +6,6 @@
 
 2. Copy admin folder from here and move to resources/views folder in your Laravel app.
 
-3. Update includes paths and extends path as you required.
+3. Update includes paths (check layouts/ folder) and extends paths (in page.blade.php) as you required.
 
 4. Use and continue dev.
