@@ -1,4 +1,4 @@
-@extends('adminlte-laravel-starter-views.admin.layouts.main')
+@extends('layouts.admin')
 
 @section('content')
     <!-- Content Wrapper. Contains page content -->

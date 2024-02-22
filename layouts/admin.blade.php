@@ -19,10 +19,10 @@
     <div class="preloader flex-column justify-content-center align-items-center">
         <img class="animation__shake" src="{{ asset('AdminLTE-3.2.0/dist/img/AdminLTELogo.png') }}" alt="AdminLTELogo" height="60" width="60">
     </div>
-    @include('adminlte-laravel-starter-views.admin.includes.navbar')
-    @include('adminlte-laravel-starter-views.admin.includes.sidebar')
+    @include('includes.admin.navbar')
+    @include('includes.admin.sidebar')
     @yield('content')
-    @include('adminlte-laravel-starter-views.admin.includes.footer')
+    @include('includes.admin.footer')
 </div>
 <!-- REQUIRED SCRIPTS -->
 
